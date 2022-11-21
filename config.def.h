@@ -13,6 +13,7 @@ static char *font2[] = {
 	"Font Awesome 6 Free Solid:pixelsize=14:antialias=true:autohint=true",
 	"Font Awesome 6 Brands Regular:pixelsize=14:antialias=true:autohint=true",
 	"Symbola:pixelsize=15:antialias=true:autohint=true",
+	"Material Design Icons Desktop:pixelsize=15:antialias=true:autohint=true",
 	// "Noto Color Emoji:pixelsize=15:antialias=true:autohint=true",
 };
 
