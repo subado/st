@@ -8,15 +8,14 @@
 static char *font = "Hack Nerd Font:pixelsize=14:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
+	"Noto Color Emoji:pixelsize=15:antialias=false:autohint=false",
 	"icomoon:pixelsize=14:antialias=true:autohint=true",
-	"Symbola:pixelsize=15:antialias=true:autohint=true",
 	"Material Design Icons Desktop:pixelsize=15:antialias=true:autohint=true",
 	"Fira Code Regular Nerd Font Complete:pixelsize=15:antialias=true:autohint=true",
 	"Font Awesome 6 Brands Regular:pixelsize=15:antialias=true:autohint=true",
-	"Font Awesome 6 Free Regular:pixelsize=15:antialias=true:autohint=true",
 	"Font Awesome 6 Free Solid:pixelsize=15:antialias=true:autohint=true",
+	"Font Awesome 6 Free Regular:pixelsize=15:antialias=true:autohint=true",
 	"font-awesome-extension:pixelsize=15:antialias=true:autohint=true",
-	// "Noto Color Emoji:pixelsize=15:antialias=true:autohint=true",
 };
 
 static int borderpx = 2;
